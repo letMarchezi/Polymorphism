@@ -1,10 +1,10 @@
 /*
 Autor(es): 
-Leticia Bossato Marchezi, RA: 791003, BCC
-João Otavio Martini Korczovei, RA: 790913, BCC
-Luana de Queiroz Garcia, RA: 740953, BCC
-Luís Augusto Simas do Nascimento, RA: 790828, BCC
-Vitor Caligaris Figueira, RA:790743, EnC
+Leticia Bossato Marchezi
+João Otavio Martini Korczovei
+Luana de Queiroz Garcia
+Luís Augusto Simas do Nascimento
+Vitor Caligaris Figueira
 
 Data de Criação: 12/04/2021
 Data de Atualização: 12/04/2021
